@@ -2,14 +2,11 @@ package org.example;
 
 import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 public class HomeWorkTest {
 
-  // Метод реализованный на TreeMap
+    // Метод реализованный на TreeMap
     @Test
     void findMaxSubstringTest(){
         HomeWork homeWork = new HomeWork();
